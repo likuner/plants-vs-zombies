@@ -1,0 +1,11 @@
+schemaVersion: 1
+sessionDefaults:
+  projectPath: /Users/likun/Documents/plants-vs-zombies/PlantsVsZombies.xcodeproj
+  scheme: PlantsVsZombies
+  configuration: Debug
+  simulatorName: iPhone 16 Pro
+  simulatorPlatform: iOS Simulator
+  useLatestOS: true
+  preferXcodebuild: true
+  bundleId: com.likun.PlantsVsZombies
+  simulatorId: 934C03FD-75E5-4195-ACDF-A3C72E5064FC
